@@ -1,3 +1,12 @@
+## About This Project
+
+This project is created to be used for my personal website that contains:
+- My profile page (personal information)
+
+Using:
+- Laravel
+- Uikit
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
