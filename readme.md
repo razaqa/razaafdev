@@ -4,8 +4,11 @@ This project is created to be used for my personal website that contains:
 - My profile page (personal information)
 
 Using:
-- Laravel
-- Uikit
+- Laravel 5.5.24
+- PHP 7.1.14
+- UIkit 3.0.0-rc.26
+- JQuery 3.3.1
+- Font Awesome 5.6.3
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
