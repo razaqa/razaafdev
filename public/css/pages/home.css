@@ -1,0 +1,36 @@
+/*
+font-family: 'Amatic SC', cursive;
+font-family: 'Indie Flower', cursive;
+font-family: 'Staatliches', cursive;
+font-family: 'Bungee Inline', cursive;
+font-family: 'Major Mono Display', monospace;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Monoton', cursive;
+*/
+
+.headline {
+    font-family: 'Amatic SC', cursive;
+}
+
+.slide-down {
+    background-color: rgba(0, 0, 0, 0.5);
+    margin-bottom: 10px;
+    border-radius: 100px;
+    font-size: 15px;
+}
+
+.slide-down:hover {
+    background-color: rgba(50, 50, 50, 0.5) !important;
+}
+
+.slide-down:active {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.slide-down:visited {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.slide-down:focus {
+    background-color: rgba(0, 0, 0, 0.5);
+}
