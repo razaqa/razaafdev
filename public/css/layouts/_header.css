@@ -1,0 +1,12 @@
+.nav-font {
+    font-size: 1.25rem !important;
+    color: white !important;
+}
+
+.sidenav-background {
+    background-color: rgba(100, 10, 100, 1);
+}
+
+.uk-button-text::before {
+    border-bottom: 1px solid white;
+}
