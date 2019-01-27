@@ -265,13 +265,13 @@ label {
 /* Large screen */
 @media screen and (min-width: 992px) {
     h1 {
-        font-size: 5rem;
+        font-size: 4rem;
     }
 }
 
 /* Fullscreen screen */
 @media screen and (min-width: 1200px) {
     h1 {
-        font-size: 7.5rem;
+        font-size: 4.5rem;
     }
 }
