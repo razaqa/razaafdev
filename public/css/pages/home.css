@@ -34,3 +34,31 @@ font-family: 'Monoton', cursive;
 .slide-down:focus {
     background-color: rgba(0, 0, 0, 0.5);
 }
+
+.section-title {
+    font-family: "Raleway", sans-serif;
+}
+
+.writings-description h3 {
+    font-family: 'Permanent Marker', cursive;
+    margin-top: 0;
+    margin-bottom: 2vw;
+}
+
+.writings-description p {
+    font-family: 'Indie Flower', cursive;
+}
+
+.writings-description a {
+    font-family: "Raleway", sans-serif;
+    font-size: 10px;
+    margin-bottom: 10px !important;
+}
+
+.slider-color {
+    background-color: black;
+}
+
+.uk-overlay {
+    padding: 10px 10px;
+}
