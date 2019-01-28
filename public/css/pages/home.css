@@ -51,7 +51,6 @@ font-family: 'Monoton', cursive;
 
 .writings-description a {
     font-family: "Raleway", sans-serif;
-    font-size: 10px;
     margin-bottom: 10px !important;
 }
 
@@ -61,4 +60,78 @@ font-family: 'Monoton', cursive;
 
 .uk-overlay {
     padding: 10px 10px;
+}
+
+@media screen and (max-width: 575px) {
+    .writings-description h3 {
+        font-size: 1.45rem;
+    }
+
+    .writings-description p {
+        font-size: 1.35rem;
+    }
+
+    .writings-description a {
+        font-size: 0.8rem;
+    }
+}
+
+/* Small screen */
+@media screen and (min-width: 576px) {
+    .writings-description h3 {
+        font-size: 1.65rem;
+    }
+
+    .writings-description p {
+        font-size: 1.4rem;
+    }
+
+    .writings-description a {
+        font-size: 0.9rem;
+    }
+}
+
+/* Medium screen */
+@media screen and (min-width: 768px) {
+    .writings-description h3 {
+        font-size: 1.85rem;
+    }
+
+    .writings-description p {
+        font-size: 1.6rem;
+    }
+
+    .writings-description a {
+        font-size: 1rem;
+    }
+}
+
+/* Large screen */
+@media screen and (min-width: 992px) {
+    .writings-description h3 {
+        font-size: 2.05rem;
+    }
+
+    .writings-description p {
+        font-size: 1.8rem;
+    }
+
+    .writings-description a {
+        font-size: 1.2rem;
+    }
+}
+
+/* Fullscreen screen */
+@media screen and (min-width: 1200px) {
+    .writings-description h3 {
+        font-size: 2.25rem;
+    }
+
+    .writings-description p {
+        font-size: 2rem;
+    }
+
+    .writings-description a {
+        font-size: 1.3rem;
+    }
 }
