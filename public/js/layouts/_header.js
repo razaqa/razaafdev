@@ -17,7 +17,9 @@ function changeNavbarColorOnScroll(newHeightCover) {
     var marginTop = 40;
     if ($(document).scrollTop() >= newHeightCover - marginTop && $(document).scrollTop() <= 2*newHeightCover - marginTop) {
         $(".nav-font").css("color",  "black");
+        $(".main-menu").removeClass("white-underline");
     } else {
         $(".nav-font").css("color", "white");
+        $(".main-menu").addClass("white-underline");
     }
 }

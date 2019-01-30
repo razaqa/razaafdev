@@ -7,6 +7,6 @@
     background-color: rgba(100, 10, 100, 1);
 }
 
-.uk-button-text::before {
-    border-bottom: 1px solid white;
+.white-underline::before {
+    border-bottom: 1px solid white !important;
 }
