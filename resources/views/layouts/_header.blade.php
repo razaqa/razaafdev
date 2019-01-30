@@ -28,7 +28,7 @@
                     &nbsp&nbsp&nbsp
                     <li>
                         <button class="main-menu uk-button uk-button-text nav-font uk-animation-scale-up uk-transform-origin-top-center">
-                            works
+                            projects
                         </button>
                     </li>
                     &nbsp&nbsp&nbsp
@@ -56,7 +56,7 @@
                 <a class="uk-text-large" href="">writings</a>
             </li>
             <li>
-                <a class="uk-text-large" href="">works</a>
+                <a class="uk-text-large" href="">projects</a>
             </li>
             <li>
                 <a class="uk-text-large" href="">about</a>
