@@ -47,7 +47,7 @@
                                 <div class="writings-description uk-overlay uk-overlay-primary uk-position-right uk-text-center uk-transition-slide-bottom uk-width-medium">
                                     <h3 class="">Left</h3>
                                     <p class="">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                    <a class="uk-position-bottom uk-button uk-button-text uk-button-large" href="#works">
+                                    <a class="uk-position-bottom uk-button uk-button-text uk-button-large" href="#">
                                         read more...
                                     </a>
                                 </div>
@@ -59,7 +59,7 @@
                                 <div class="writings-description uk-overlay uk-overlay-primary uk-position-right uk-text-center uk-transition-slide-bottom uk-width-medium">
                                     <h3 class="">Left</h3>
                                     <p class="">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                    <a class="uk-position-bottom uk-button uk-button-text uk-button-large" href="#works">
+                                    <a class="uk-position-bottom uk-button uk-button-text uk-button-large" href="#">
                                         read more...
                                     </a>
                                 </div>
@@ -71,7 +71,7 @@
                                 <div class="writings-description uk-overlay uk-overlay-primary uk-position-right uk-text-center uk-transition-slide-bottom uk-width-medium">
                                     <h3 class="">Left</h3>
                                     <p class="">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                    <a class="uk-position-bottom uk-button uk-button-text uk-button-large" href="#works">
+                                    <a class="uk-position-bottom uk-button uk-button-text uk-button-large" href="#">
                                         read more...
                                     </a>
                                 </div>
@@ -83,7 +83,7 @@
                                 <div class="writings-description uk-overlay uk-overlay-primary uk-position-right uk-text-center uk-transition-slide-bottom uk-width-medium">
                                     <h3 class="">Left</h3>
                                     <p class="">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                    <a class="uk-position-bottom uk-button uk-button-text uk-button-large" href="#works">
+                                    <a class="uk-position-bottom uk-button uk-button-text uk-button-large" href="#">
                                         read more...
                                     </a>
                                 </div>
@@ -95,7 +95,7 @@
                                 <div class="writings-description uk-overlay uk-overlay-primary uk-position-right uk-text-center uk-transition-slide-bottom uk-width-medium">
                                     <h3 class="">Left</h3>
                                     <p class="">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                    <a class="uk-position-bottom uk-button uk-button-text uk-button-large" href="#works">
+                                    <a class="uk-position-bottom uk-button uk-button-text uk-button-large" href="#">
                                         read more...
                                     </a>
                                 </div>
@@ -108,10 +108,11 @@
 
                 </div>
             </div>
-            <a class="uk-position-bottom-center slide-down uk-button uk-button-primary" href="#works" uk-scroll>
+            <a class="uk-position-bottom-center slide-down uk-button uk-button-primary" href="#projects" uk-scroll>
                 <i class="fas fa-chevron-down"></i>
             </a>
         </div>
+
     </div>
 @endsection
 
