@@ -15,25 +15,25 @@
             <div class="uk-navbar-right">
                 <ul class="uk-navbar-nav uk-visible@s">
                     <li>
-                        <button class="uk-button uk-button-text nav-font uk-animation-scale-up uk-transform-origin-top-center">
+                        <button class="main-menu uk-button uk-button-text nav-font uk-animation-scale-up uk-transform-origin-top-center">
                             home
                         </button>
                     </li>
                     &nbsp&nbsp&nbsp
                     <li>
-                        <button class="uk-button uk-button-text nav-font uk-animation-scale-up uk-transform-origin-top-center">
+                        <button class="main-menu uk-button uk-button-text nav-font uk-animation-scale-up uk-transform-origin-top-center">
                             writings
                         </button>
                     </li>
                     &nbsp&nbsp&nbsp
                     <li>
-                        <button class="uk-button uk-button-text nav-font uk-animation-scale-up uk-transform-origin-top-center">
+                        <button class="main-menu uk-button uk-button-text nav-font uk-animation-scale-up uk-transform-origin-top-center">
                             works
                         </button>
                     </li>
                     &nbsp&nbsp&nbsp
                     <li>
-                        <button class="uk-button uk-button-text nav-font uk-animation-scale-up uk-transform-origin-top-center">
+                        <button class="main-menu uk-button uk-button-text nav-font uk-animation-scale-up uk-transform-origin-top-center">
                             about
                         </button>
                     </li>
