@@ -112,7 +112,84 @@
                 <i class="fas fa-chevron-down"></i>
             </a>
         </div>
-
+        <div id="projects" class="uk-inline img-cover-height uk-height-large uk-background-cover uk-overflow-hidden uk-flex uk-flex-center" uk-parallax="bgy: 750" style="background-image: url('img/HomeProjectBackground.jpg');">
+            <div class="uk-width-3-4@s uk-width-1-2@m uk-text-center uk-margin-auto uk-margin-auto-vertical">
+                <div class="section-title">
+                    <h1 class="section-title" style="color:rgb(220, 135, 40);">SEE MY PROJECTS</h1>
+                </div>
+                <div class="projects-icons uk-child-width-1-3@s uk-grid-match" uk-grid>
+                    <div>
+                        <div class="projects-card uk-card uk-card-body flip-box">
+                            <div class="flip-box-inner">
+                                <div class="flip-box-front">
+                                    <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                        <div class="uk-text-center uk-margin-auto uk-margin-auto-vertical">
+                                            <img width="100" height="100" src="{{ asset('img/ProjectIconArt.png') }}">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="flip-box-back">
+                                    <a href="#">
+                                        <span class="projects-desc">ART</span>
+                                        <span class="uk-badge">1</span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="projects-number">
+                            20+
+                        </div>
+                    </div>
+                    <div>
+                        <div class="projects-card uk-card uk-card-body flip-box">
+                            <div class="flip-box-inner">
+                                <div class="flip-box-front">
+                                    <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                        <div class="uk-text-center uk-margin-auto uk-margin-auto-vertical">
+                                            <img width="100" height="100" src="{{ asset('img/ProjectIconCode.png') }}">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="flip-box-back">
+                                    <a href="#">
+                                        <span class="projects-desc">APP</span>
+                                        <span class="uk-badge">1</span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="projects-number">
+                            5+
+                        </div>
+                    </div>
+                    <div>
+                        <div class="projects-card uk-card uk-card-body flip-box">
+                            <div class="flip-box-inner">
+                                <div class="flip-box-front">
+                                    <div class="uk-grid-small uk-flex-middle" uk-grid>
+                                        <div class="uk-text-center uk-margin-auto uk-margin-auto-vertical">
+                                            <img width="100" height="100" src="{{ asset('img/ProjectIconDesign.png') }}">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="flip-box-back">
+                                    <a href="#">
+                                        <span class="projects-desc">DESIGN</span>
+                                        <span class="uk-badge">1</span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="projects-number">
+                            10+
+                        </div>
+                    </div>
+                </div>
+                <a class="uk-position-bottom-center slide-down uk-button uk-button-primary" href="#about" uk-scroll>
+                    <i class="fas fa-chevron-down"></i>
+                </a>
+            </div>
+        </div>
     </div>
 @endsection
 
