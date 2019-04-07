@@ -48,7 +48,7 @@
                                     <h3 class="">Left</h3>
                                     <p class="">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                                     <a class="uk-position-bottom uk-button uk-button-text uk-button-large" href="#">
-                                        read more...
+                                        read more
                                     </a>
                                 </div>
                             </div>
@@ -60,7 +60,7 @@
                                     <h3 class="">Left</h3>
                                     <p class="">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                                     <a class="uk-position-bottom uk-button uk-button-text uk-button-large" href="#">
-                                        read more...
+                                        read more
                                     </a>
                                 </div>
                             </div>
@@ -72,7 +72,7 @@
                                     <h3 class="">Left</h3>
                                     <p class="">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                                     <a class="uk-position-bottom uk-button uk-button-text uk-button-large" href="#">
-                                        read more...
+                                        read more
                                     </a>
                                 </div>
                             </div>
@@ -84,7 +84,7 @@
                                     <h3 class="">Left</h3>
                                     <p class="">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                                     <a class="uk-position-bottom uk-button uk-button-text uk-button-large" href="#">
-                                        read more...
+                                        read more
                                     </a>
                                 </div>
                             </div>
@@ -96,7 +96,7 @@
                                     <h3 class="">Left</h3>
                                     <p class="">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                                     <a class="uk-position-bottom uk-button uk-button-text uk-button-large" href="#">
-                                        read more...
+                                        read more
                                     </a>
                                 </div>
                             </div>
