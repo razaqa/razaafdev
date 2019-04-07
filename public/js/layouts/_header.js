@@ -15,7 +15,8 @@ $(window).on('resize', function(){
 
 function changeNavbarColorOnScroll(newHeightCover) {
     var marginTop = 40;
-    if ($(document).scrollTop() >= newHeightCover - marginTop && $(document).scrollTop() <= 2*newHeightCover - marginTop) {
+    if ($(document).scrollTop() >= newHeightCover - marginTop && $(document).scrollTop() <= 2*newHeightCover - marginTop ||
+        $(document).scrollTop() >= 3*newHeightCover - marginTop && $(document).scrollTop() <= 4*newHeightCover - marginTop) {
         $(".nav-font").css("color",  "black");
         $(".main-menu").removeClass("white-underline");
     } else {
