@@ -9,7 +9,19 @@ font-family: 'Monoton', cursive;
 */
 
 .headline {
-    font-family: 'Amatic SC', cursive;
+    font-family: 'Major Mono Display', monospace;
+    font-size: 20px;
+}
+
+#cover .headline {
+    padding-top: 25%;
+    padding-bottom: 75%;
+}
+
+#canvas-cover {
+    position: absolute;
+    left: 0;
+    top: 0;
 }
 
 .slide-down {
